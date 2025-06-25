@@ -8,4 +8,4 @@ function printuser() : {name: string, age: number} {
 const user = printuser();
 console.log(user.name);
 console.log(user.age);
-console.log(user);
+console.log(user); 
