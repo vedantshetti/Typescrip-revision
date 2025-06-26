@@ -18,4 +18,5 @@ const alice : userAndInfo = {
     phone: '1234567890'
 }
 
+
 console.log(alice);
